@@ -9,10 +9,10 @@
 <br/>
 
 <p align="center">
-<img src="https://count.getloli.com/get/@:rynix01?theme=rule34" alt=":rynix01" />
+<img src="https://count.getloli.com/get/@:rynix01?theme=rule34" alt=":rynix01" />  </p>
 
-My Discord Profile
-  </p>
+<center>My Discord Profile</center>
+
 
 <div align="center">
 
