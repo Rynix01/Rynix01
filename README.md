@@ -11,10 +11,7 @@
 <p align="center">
 <img src="https://count.getloli.com/get/@:rynix01?theme=rule34" alt=":rynix01" />
 <div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=Rynix01&color=orange&label=PROFILE+VIEWS)
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/538316319829917701)](https://discord.com/users/538316319829917701)
+![![Discord Presence](https://lanyard.cnrad.dev/api/538316319829917701)](https://discord.com/users/538316319829917701)
 </div>
 
 
