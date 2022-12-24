@@ -10,4 +10,5 @@
 
 <p align="center">
 <img src="https://count.getloli.com/get/@:rynix01?theme=rule34" alt=":rynix01" />
+[![Discord Presence](https://lanyard.cnrad.dev/api/538316319829917701)](https://discord.com/users/538316319829917701)
 </p>
