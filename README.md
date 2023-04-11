@@ -15,4 +15,5 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/538316319829917701)](https://discord.com/users/538316319829917701)
 </div>
 
-
+![GitHub Overview](https://raw.githubusercontent.com/Rynix01/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![GitHub Languages](https://raw.githubusercontent.com/Rynix01/github-stats/master/generated/languages.svg#gh-dark-mode-only)
