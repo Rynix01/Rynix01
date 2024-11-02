@@ -8,5 +8,5 @@
 <img src="https://count.getloli.com/get/@:rynix01?theme=rule34" alt=":rynix01" /></p>
 <div align="center">
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/538316319829917701)](https://discord.com/users/538316319829917701)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1028771305505423370)](https://discord.com/users/1028771305505423370)
 </div>
