@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:111111,45:ff7a00,100:ffb000&text=Murat%20%2F%20Rynix&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20Minecraft%20Developer%20%E2%80%A2%20Builder&descAlignY=58&descSize=17&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:111111,45:ff7a00,100:ffb000&text=Murat%20%2F%20Rynix&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20Minecraft%20Developer%20%E2%80%A2%20System%20Architect&descAlignY=58&descSize=17&animation=fadeIn"/>
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=FF9800&center=true&vCenter=true&width=700&lines=Building+things+since+2020.;Backend+%E2%80%A2+APIs+%E2%80%A2+Minecraft;TypeScript+%E2%80%A2+Java+%E2%80%A2+Node.js;Turning+ideas+into+real+products." />
@@ -114,7 +114,7 @@ High-performance Minecraft server status API built for simple integrations and h
 
 `TypeScript` `Fastify` `API`
 
-🌐 **MCAPI.TR**
+🌐 **[MCAPI.TR](https://mcapi.tr)**
 
 </td>
 </tr>
@@ -130,7 +130,7 @@ Browser-based tools designed for Minecraft players, developers and server owners
 
 `Minecraft` `Tools` `Web`
 
-🌐 **MCTOOLS.TR**
+🌐 **[MCTOOLS.TR](https://mctools.tr)**
 
 </td>
 
@@ -144,6 +144,7 @@ A modern marketplace and auction system built for Minecraft servers.
 
 `BIN` `Bidding` `Redis` `Multiple Databases` `Multi Economy`
 
+🌐 **[Repo](https://github.com/Rynix01/NexAuctionHouse)**
 </td>
 </tr>
 
@@ -156,6 +157,7 @@ Flexible homes system designed for modern Minecraft servers.
 
 `Java` `Paper API`
 
+🌐 **[SpigotMC](https://www.spigotmc.org/resources/nexhomes-%E2%9C%A8-gui-hex-colors-icons-mysql-more.130365/)**
 </td>
 
 <td width="50%" valign="top">
@@ -166,27 +168,10 @@ Connecting Minecraft servers with Discord communities.
 
 `Java` `Discord` `Minecraft`
 
+🌐 **[SpigotMC](https://www.spigotmc.org/resources/nexdiscordlink-advanced-discord-link-plugin.130935/)**
 </td>
 </tr>
 </table>
-
-<br>
-
-## 🧠 Things I Like Building
-
-```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│   ⚡ Fast backend systems                    │
-│   🎮 Minecraft server infrastructure         │
-│   🔌 APIs and integrations                   │
-│   🗄️ Database-heavy applications             │
-│   🌐 Modern web platforms                    │
-│   🤖 Automation & Discord systems            │
-│   🐧 Linux production environments           │
-│                                              │
-└──────────────────────────────────────────────┘
-```
 
 <br>
 
