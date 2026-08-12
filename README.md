@@ -1,145 +1,242 @@
 <div align="center">
 
-# Hey, I'm Murat 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:111111,45:ff7a00,100:ffb000&text=Murat%20%2F%20Rynix&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20Minecraft%20Developer%20%E2%80%A2%20Builder&descAlignY=58&descSize=17&animation=fadeIn"/>
 
-### Backend Developer • Minecraft Developer • Product Builder
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=FF9800&center=true&vCenter=true&width=700&lines=Building+things+since+2020.;Backend+%E2%80%A2+APIs+%E2%80%A2+Minecraft;TypeScript+%E2%80%A2+Java+%E2%80%A2+Node.js;Turning+ideas+into+real+products." />
+</a>
 
-I build software, APIs, web services and Minecraft-related products.
+<br><br>
 
-I've been developing software since **2020**, mostly working with **Node.js, TypeScript, Java and modern web technologies**.
-Over the years, I've worked on everything from Discord bots and Minecraft plugins to backend infrastructures, public APIs and full-stack web applications.
+<a href="https://nexuby.net.tr">
+<img src="https://img.shields.io/badge/NEXUBY-FF8C00?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/>
+</a>
+<a href="https://github.com/Rynix01">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://youtube.com/@rynixdev">
+<img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+<a href="https://discord.com/users/1028771305505423370">
+<img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
 
-Currently, I'm focused on building and maintaining projects under **Nexuby Software Services**.
+</div>
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Rynix01-181717?style=for-the-badge\&logo=github)](https://github.com/Rynix01)
-[![YouTube](https://img.shields.io/badge/YouTube-RynixDev-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://youtube.com/@rynixdev)
-[![Website](https://img.shields.io/badge/Nexuby-nexuby.net.tr-orange?style=for-the-badge)](https://nexuby.net.tr)
+## `> whoami`
 
-</div>
+```yaml
+name: Murat
+alias: Rynix
+location: Türkiye
 
----
+focus:
+  - Backend Development
+  - Minecraft Development
+  - APIs & Web Services
+  - Infrastructure
+  - Product Development
 
-## 🚀 About Me
+currently_building:
+  - Nexuby
+  - MCAPI.TR
+  - MCTOOLS.TR
 
-* 💻 Developing software since **2020**
-* ⚡ Backend development with **Node.js, TypeScript & Fastify**
-* ☕ Minecraft development with **Java, Paper & Velocity**
-* 🌐 Building APIs, web applications and distributed services
-* 🤖 Experienced in **Discord bot development and automation**
-* 🗄️ Working with **MongoDB, MySQL/MariaDB, Redis & PostgreSQL**
-* 🐧 Managing Linux servers, deployments and production environments
-* 🎮 Mostly interested in products around the **Minecraft ecosystem**
-* 🧠 I enjoy building systems from scratch instead of just putting libraries together
+languages:
+  - TypeScript
+  - JavaScript
+  - Java
+  - Python
 
----
+motto: "Build it. Break it. Understand it. Build it better."
+```
 
-## 🏗️ What I'm Building
+<br>
 
-### Nexuby Software Services
+## ⚡ About Me
 
-Nexuby is where I build and publish software products, Minecraft plugins and developer tools.
+I've been building software since **2020**.
 
-Some of my projects include:
+What started with Discord bots eventually turned into backend systems, web applications, Minecraft plugins, APIs, infrastructure and complete software products.
 
-**MCAPI.TR**
-A Minecraft server status API designed for high-volume requests and simple integration.
+I enjoy working on projects where I can control the entire architecture — from the backend and database to deployment and production infrastructure.
 
-**MCTOOLS.TR**
-A collection of browser-based tools for Minecraft players, server owners and developers.
+Today, most of my work revolves around **Nexuby Software Services** and products built for developers, Minecraft communities and server owners.
 
-**NexAuctionHouse**
-A modern auction house system for Minecraft servers with bidding, BIN listings, multiple economies, database support, Redis synchronization and cross-server features.
-
-**NexubyCore**
-A Minecraft server-side project focused on providing custom gameplay and server systems.
-
-**NexHomes**
-A customizable homes system for Minecraft servers.
-
-**NexDiscordLink**
-Minecraft ↔ Discord integration tools.
-
-**NexRPC**
-A desktop Discord Rich Presence application for Windows and Linux.
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
-
-### Backend & Web
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square\&logo=fastify\&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=next.js\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square\&logo=express\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
-
-### Minecraft
-
-![Paper](https://img.shields.io/badge/Paper-1C1C1C?style=flat-square\&logo=paper\&logoColor=white)
-![Java](https://img.shields.io/badge/Paper_API-Java-orange?style=flat-square)
-![Velocity](https://img.shields.io/badge/Velocity-Proxy-blueviolet?style=flat-square)
-![Fabric](https://img.shields.io/badge/Fabric-Modding-yellow?style=flat-square)
-
-### Databases & Infrastructure
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square\&logo=cloudflare\&logoColor=white)
-
----
-
-## 📊 GitHub Stats
+<br>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rynix01&show_icons=true&hide_border=true&theme=github_dark" />
+### 🧰 Tech Arsenal
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rynix01&layout=compact&hide_border=true&theme=github_dark" />
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,java,python,nextjs,express,mongodb,mysql,postgres,redis,docker,linux,cloudflare,git,github&perline=8" />
 
-</div>
+<br><br>
 
----
-
-## 🔥 Activity
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rynix01&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
----
-
-## 👀 Profile Views
-
-<div align="center">
-
-<img src="https://count.getloli.com/get/@:rynix01?theme=rule34" alt="Profile Views" />
+<img src="https://img.shields.io/badge/Paper_API-Minecraft-62B47A?style=flat-square"/>
+<img src="https://img.shields.io/badge/Velocity-Proxy-6C63FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Fastify-Backend-111111?style=flat-square&logo=fastify"/>
+<img src="https://img.shields.io/badge/REST-APIs-FF8C00?style=flat-square"/>
+<img src="https://img.shields.io/badge/Redis-Caching-DC382D?style=flat-square&logo=redis"/>
+<img src="https://img.shields.io/badge/Linux-Production-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 
 </div>
 
+<br>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🟠 Nexuby
+
+Software products, developer tools and Minecraft-related systems.
+
+**Focus**
+
+`Software` `Minecraft` `Web` `Infrastructure`
+
+🌐 **[nexuby.net.tr](https://nexuby.net.tr)**
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚡ MCAPI.TR
+
+High-performance Minecraft server status API built for simple integrations and high request volumes.
+
+**Stack**
+
+`TypeScript` `Fastify` `API`
+
+🌐 **MCAPI.TR**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🧰 MCTOOLS.TR
+
+Browser-based tools designed for Minecraft players, developers and server owners.
+
+**Focus**
+
+`Minecraft` `Tools` `Web`
+
+🌐 **MCTOOLS.TR**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛒 NexAuctionHouse
+
+A modern marketplace and auction system built for Minecraft servers.
+
+**Features**
+
+`BIN` `Bidding` `Redis` `Multiple Databases` `Multi Economy`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🏠 NexHomes
+
+Flexible homes system designed for modern Minecraft servers.
+
+`Java` `Paper API`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔗 NexDiscordLink
+
+Connecting Minecraft servers with Discord communities.
+
+`Java` `Discord` `Minecraft`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🧠 Things I Like Building
+
+```text
+┌──────────────────────────────────────────────┐
+│                                              │
+│   ⚡ Fast backend systems                    │
+│   🎮 Minecraft server infrastructure         │
+│   🔌 APIs and integrations                   │
+│   🗄️ Database-heavy applications             │
+│   🌐 Modern web platforms                    │
+│   🤖 Automation & Discord systems            │
+│   🐧 Linux production environments           │
+│                                              │
+└──────────────────────────────────────────────┘
+```
+
+<br>
+
+## 💬 Discord
+
+<div align="center">
+
+<a href="https://discord.com/users/1028771305505423370">
+<img src="https://lanyard.cnrad.dev/api/1028771305505423370?theme=dark&bg=111111&borderRadius=12px&idleMessage=Probably%20building%20something..." />
+</a>
+
+</div>
+
+<br>
+
+## 📈 Development
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rynix01&theme=github_dark"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rynix01&theme=github_dark"/>
+
+<br>
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rynix01&theme=github_dark"/>
+
+</div>
+
+<br>
+
+## 👀 Visitors
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Rynix01&label=PROFILE+VIEWS&color=ff8c00&style=for-the-badge"/>
+
+</div>
+
+<br>
+
 ---
 
 <div align="center">
 
-### Build things. Break things. Learn how they work. Build them better.
+### `while (alive) { build(); learn(); improve(); }`
 
-**[nexuby.net.tr](https://nexuby.net.tr)**
+<br>
+
+**Thanks for stopping by.**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ffb000,55:ff7a00,100:111111"/>
 
 </div>
